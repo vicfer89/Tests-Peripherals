@@ -1,0 +1,11 @@
+.cache/
+.hw/
+.ioplanning/
+.runs/
+
+.jou
+.log
+.o
+.a
+.d
+.mk
