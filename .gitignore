@@ -3,9 +3,15 @@
 .ioplanning/
 .runs/
 
+.metadata/
+RemoteSystemsTempFiles/
+standalone_bsp_0/
+webtalk/
+Debug/
+
+
 .jou
 .log
 .o
 .a
 .d
-.mk
